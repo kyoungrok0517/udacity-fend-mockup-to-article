@@ -1,0 +1,20 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+I actually have dealt with HTML quite long time ago, but since the syntax isn't changed much I had little problem solving the quizes and project ( or at least I felt so :) )
+What I learned from this lesson is that I can translate an image to a mockup using only simple HTML coding, without complex prototypign tools. That is a big lesson!
+
+I had little trouble comming up with necessary HTML tags and the right place to use tags.
+
+Answering "What has been difficult", I know there are several tools that help me avoid repeatedly typing boilerplates or even a single HTML tag (like Emmet). 
+I tried to make me get used to such tools, but wasn't successful so I typed in every single tag. I understand it's good for learning but sometime I want to be familiar with such tools.
+So what has been difficult? Hand typing HTML tags was difficult :(
+
+Well I haven't encountered a problem so far. What I need is the feedback of my code from experts (like the one who's reading my code now). Hope for the fruitful feedback :) Thanks!
